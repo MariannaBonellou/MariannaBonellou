@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MariannaBonellou
+- 👀 I’m interested in learning JavaScript, especially in the p5.js environment!
+- 🌱 I’m currently learning more about machine learning and poseNet.
